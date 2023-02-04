@@ -86,7 +86,3 @@ More Info
     
 
 ![](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step3.png)
-
-### Manual QA Review
-
-**It is your responsibility to request a review for this project from a peer before the project’s deadline. If no peers have been reviewed, you should request a review from a TA or staff member.**
